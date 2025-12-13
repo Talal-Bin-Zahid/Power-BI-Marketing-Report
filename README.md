@@ -153,6 +153,8 @@ The dashboard tracks the following core KPIs and analytical dimensions, derived 
 
 ---
 
-**Author:** Dr. Talal Bin Zahid
+**Author:** Dr. Talal Bin Zahid 
+
 **Tool:** Power BI  
+
 **Focus:** Data-Driven Marketing Insights
