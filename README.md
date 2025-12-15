@@ -3,7 +3,7 @@
 
 ## 1. Project Overview
 
-This repository contains a **Power BI Marketing Analytics Dashboard** designed to provide a comprehensive view of customer demographics, income patterns, purchase behavior, and campaign responsiveness.  
+This is a **Power BI Marketing Analytics Dashboard** designed to provide a comprehensive view of customer demographics, income patterns, purchase behavior, and campaign responsiveness.  
 The primary goal of this report is to help marketing and business teams **understand customer segments**, **identify high-value groups**, and **optimize marketing strategies** based on data-driven insights.
 
 The dashboard consolidates customer-level data into clear, actionable visualizations that support strategic decision-making around targeting, channel optimization, and product performance.
